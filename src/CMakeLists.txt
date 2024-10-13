@@ -1,0 +1,3 @@
+add_subdirectory(FixedPoint)
+add_subdirectory(ParseArgs)
+add_subdirectory(FloatingPoint)

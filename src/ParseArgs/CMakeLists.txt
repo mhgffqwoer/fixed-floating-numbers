@@ -1,0 +1,1 @@
+add_library(ParseArgs ParseArgs.hpp ParseArgs.cpp)

@@ -1,0 +1,1 @@
+add_library(FloatingPoint FloatingPoint.hpp FloatingPoint.cpp)
